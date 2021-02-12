@@ -1,0 +1,32 @@
+.container{
+    height: 30px;
+    background-color: rgb(173, 173, 173);
+    border: 2px solid black;
+    vertical-align: middle;
+    padding:20px;
+}
+.container-fluid{
+vertical-align: middle;
+}
+.navbar-header{
+    font-size: 20px;
+    float: left;
+}
+.navbar-nav{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+.navbar-nav > li{
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    float: left;
+}
+.navbar-nav > li > a {
+    font-weight: 500;
+    text-decoration: unset;
+}

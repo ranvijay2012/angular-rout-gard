@@ -1,0 +1,23 @@
+.table{
+    width: 100%;
+    background-color: rgb(173, 180, 185);
+    border: 2px solid darkolivegreen;
+    border-collapse: collapse;
+}
+
+.table > thead{
+    text-align: left;
+    font-weight: bold;
+    width: 100%;
+    background-color: rgb(173, 180, 185);
+    border: 2px solid darkolivegreen;
+    border-collapse: collapse;
+}
+.table > tbody > tr {
+    text-align: left;
+    font-weight: 400;
+    width: 100%;
+    background-color: rgb(173, 180, 185);
+    border: 1px solid darkolivegreen;
+    border-collapse: collapse;
+}
